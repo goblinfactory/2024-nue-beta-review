@@ -87,3 +87,5 @@ Exactly the same output.
 1. Fenced code blocks are already a well supported markdown standard and is supported by vscode with automatic language intellisense and colour coding.
 2. If you view the source for this page, you save 3 lines using codeblocks, but that's the only minor difference that doesn't seem to justify three different ways to render code blocks?
 3. Fenced code blocks are the most verbose, but literally only by 2 extra lines; then `[code]` which is only 1 line longer than using default markdown triple backtick.
+
+[button label="backity back back" href="/"]
