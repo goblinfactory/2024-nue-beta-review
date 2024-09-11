@@ -1,0 +1,3 @@
+<div @name=pillar class="pill">
+    <h1>hello</h1>
+</div>

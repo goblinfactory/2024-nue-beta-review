@@ -1,0 +1,21 @@
+.grid {
+  background-color: beige;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1em;
+  padding: 20px;
+  display: flex;
+}
+
+.grid > div {
+  color: #fff;
+  background-color: #bbcab4;
+  flex-grow: 1;
+  padding: 1em;
+  display: flex;
+}
+
+.grid h2 {
+  margin: 0;
+}

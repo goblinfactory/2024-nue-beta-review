@@ -1,0 +1,51 @@
+
+globals: ["@global"]
+libs: ["@library"]
+
+view_transitions: false
+native_css_nesting: true
+inline_css: true
+
+title_template: "Alan Hemmings / %s"
+og_image: /img/og_emma.png
+author: Alan Hemmings
+favicon: /img/favicon.jpg
+description: Minimalist, designer, and UX developer
+port: 8085
+
+# OG image
+origin: https://simple-blog.nuejs.org
+og: /img/og.jpg
+numbered: true
+
+header:
+  navigation:
+    - Alan Hemmings: /
+    - Contact: //www.linkedin.com/in/goblinfactory/
+
+footer:
+  copyright:
+    - © Alan Hemmings: /
+
+  social:
+    - image: /img/twitter.svg
+      url: //x.com/snowcode
+      alt: Twitter (X) profile
+      size: 22 x 22
+
+    - image: /img/github.svg
+      url: //github.com/goblinfactory/
+      alt: Github Projects
+      size: 22 x 22
+
+    - image: /img/linkedin.svg
+      url: //linkedin.com/in/goblinfactory
+      alt: LinkedIn profile
+      size: 22 x 22
+
+links:
+  p01: /blog/01-getting-started-and-documentation.html
+  p02: /blog/02-fabulous-features.html
+  p03: /blog/03-documentation-improvements.html
+  p04: /blog/04-random-suggestions.html
+  p05: /blog/05-bugs-and-issues.html
