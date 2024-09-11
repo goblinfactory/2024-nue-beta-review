@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "nuekit": "latest",
+    "wrangler": "^3.50.0"
+  }   
+}
