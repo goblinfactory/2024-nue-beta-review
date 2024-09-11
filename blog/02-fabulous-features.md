@@ -60,4 +60,9 @@ inline_css: true
 
 [! /img/eight-seconds.png]
 
+### 6. MMM - Making Markdown Miraculous!
+
+1. Mmmm ... I love how easily you can create custom markdown extensions using Nue.
+2. tbd : with some simple examples.
+
 ### 6. to be continued ... (work in progress)
