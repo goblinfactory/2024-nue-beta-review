@@ -65,4 +65,9 @@ inline_css: true
 1. Mmmm ... I love how easily you can create custom markdown extensions using Nue.
 2. tbd : with some simple examples.
 
-### 6. to be continued ... (work in progress)
+### 7. Hot reloading
+
+1. Hot reloading didn't used to be such a big thing for me; however, when you're able to work and iterate so incredibly fast, and with the clean seperation of content, means seing the changes in realtime as you edit code, just makes you `that` much more productive. 
+2. The sheer simplicity of everything; where everything that can be removed has been removed means everything is that much more stable; really super charges the  hot reloading; compared to a lot more planning and design with bigger react et al systems.
+
+### 8. to be continued ... (work in progress)
