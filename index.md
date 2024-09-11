@@ -16,3 +16,5 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
 ## Parting thoughts
 
 I can't wait to see how Nue [progresses on it's roadmap][roadmap] and to get my hands on the first set of templates that I can use (as a non designer) without having to constantly tweak CSS. (Default css and design system that works out of the box for tabs, and code formatting supporting light and dark themes et al) it's going to be amazing. I can't wait.
+
+Not being a designer myself, I have to wait for one of the templates to be able to go crazy with grids. While I can use DIVs and css Flex etc to build a grid, it's the sheer simplicity of being able to cleanly create content in a grid that I'm really excited about. Small things with really big impacts. 
