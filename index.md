@@ -11,6 +11,7 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
 review ver 0.0.02
 
  1. ["FF" the Fabulous Features.][p02]
- 1. [Documentation and improvements.][p03]
+ 1. [Documentation improvement suggestions.][p03]
+ 1. [Missing features.][missing]
  1. [Beta, bugs and issues.][p05]
  
