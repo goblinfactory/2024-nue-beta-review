@@ -13,3 +13,6 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
  1. [Missing features.][missing]
  1. [Beta, bugs and issues.][p05]
  
+## Parting thoughts
+
+I can't wait to see how this develops and for the first set of templates that I can use (as a non designer) without having to constantly tweak CSS. (Default css and design system that works out of the box for tabs, and code formatting supporting light and dark themes et al) it's going to be amazing. I can't wait.
