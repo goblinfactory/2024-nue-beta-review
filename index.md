@@ -15,4 +15,4 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
  
 ## Parting thoughts
 
-I can't wait to see how this develops and for the first set of templates that I can use (as a non designer) without having to constantly tweak CSS. (Default css and design system that works out of the box for tabs, and code formatting supporting light and dark themes et al) it's going to be amazing. I can't wait.
+I can't wait to see how Nue [progresses on it's roadmap][roadmap] and to get my hands on the first set of templates that I can use (as a non designer) without having to constantly tweak CSS. (Default css and design system that works out of the box for tabs, and code formatting supporting light and dark themes et al) it's going to be amazing. I can't wait.
