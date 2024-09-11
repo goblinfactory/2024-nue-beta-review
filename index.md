@@ -2,7 +2,7 @@
 content_collection: blog
 ---
 
-# Nue 1.0 beta
+# Nue 1.0 beta - first look
 
 I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT build websites that are exceptionally well designed — inside, and outside. I do other things, and expect the javascript UX library I use (together with it's default design system template) to do that for me.
 
