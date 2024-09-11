@@ -53,4 +53,11 @@ I love how I can toggle to enable or disable inline css; so useful to have it tu
 inline_css: true
 ```
 
-### 5. to be continued ... (work in progress)
+### 5. Devops
+
+1. BUild and deployment time on Cloudflare is insanely Faaaaaaast! 
+2. 11 seconds after I hit enter after typing `git push` and it's deployed. That's `3` seconds for Cloudflare to detect the git change, and 8, yes `eight` seconds, and it's deployed and available world wide on the cloudflare CDN!  🕺🏼😇
+
+[! /img/eight-seconds.png]
+
+### 6. to be continued ... (work in progress)
