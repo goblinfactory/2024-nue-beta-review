@@ -8,10 +8,9 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
 
 ## Nue 1.0 beta notes & impressions
 
-Dropping some Nue 1.0 beta review notes and random questions here in a quick markdown page, rather than annoying the dev team with questions; somewhere I can point to some working examples to speed up learning and bur reporting during early beta testing where the scope for improvements is really unlimited; having all my personal thoughts in one place means i can treat it like an unsorted backlog to discuss with the team and pick which items warrant moving to become a more detailed github issue.
+ver 1.0
 
  1. ["FF" the Fabulous Features.][p02]
  1. [Documentation and improvements.][p03]
  1. [Beta, bugs and issues.][p05]
-
  
