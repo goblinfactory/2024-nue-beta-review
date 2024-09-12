@@ -55,4 +55,8 @@ adasdas
 1. For the issue above, it turns out I actually had remembered `[! /img/myimage.jpg]` totally correctly, but for some unknow reason, Nue just REFUSED to render the image, instead it rendered the actual markdown. The only way I managed to get it working was to cut and paste `[! img/favicon.jpg]` from a different project, and suddenly it started working again, as if one of the characters I had typed had some encoding issue, or the generated code by the nue compile step has an encoding problem. This is not the first time this type of "HUH???" moment ...has happened. I even stopped and started nue, and deleted the `.dist` folder just in case. I will have to watch this space carefully.
 1. I normally wouldnt make such a big deal of this; but, when trying to learn a new system, if you hit one of these bugs during your learning, it can be a dealbreaker that is so confusing that you just give up and move on and use something that actually works for you. So, I will be watching very carefully to see if this happens again soon enough for me to say this is actually a real concern. The next time this happens, I'm going to deploy the page, and see if the bug is local to my machine, or persists to production. 
 
+Update: it happened again, and literally in this very page. (Which is why there's a bit of gobblygook in the text a bit further up just to surround the two instances of the image tags)
+
+This is quite important; because I believe these types of issues go unreported. A new user doesnt even know that something is an issue, they just think they've misunderstood it, and decide, "this is too complicated for me", or, "it's not as simple as the authors claim it is" and they dont report it as a bug.
+
 [button label="backity back back" href="/"]
