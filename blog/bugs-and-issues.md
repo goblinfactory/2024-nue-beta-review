@@ -11,6 +11,7 @@ links:
   356: //github.com/nuejs/nue/issues/356
   includes: //nuejs.org/docs/project-structure.html#:~:text=statement%20as%20follows%3A-,include,-%3A%20%5Bsyntax
   excludes: //nuejs.org/docs/project-structure.html#exclude
+  361: //github.com/nuejs/nue/issues/361
 ---
 
 ## Issues and feature requests
@@ -48,6 +49,6 @@ This is quite important; because I believe these types of issues go unreported. 
 
 ### update: 11pm Thur 12th
 
-1. I reported the bug on github issues; and it was picked up by 1 of the devs, we had an exchange on github issues and we identified the root cause and found a simple workaround within 2 hours. 
+1. [I reported the bug on github issues][361]; and it was picked up by 1 of the devs, we had an exchange on github issues and we identified the root cause and found a simple workaround within 2 hours. 
 
 [button label="backity back back" href="/"]
