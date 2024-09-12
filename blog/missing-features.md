@@ -15,7 +15,7 @@ Even a tiny blog with only one main home page, and several child pages quickly n
 
 ### 2. Search
 
-[!.left /img/dont.png width="80" left]
+[image.right /img/dont.png width="80"]
 
 I needed a really quick way to use the nue docs as a reference, but without a simple place to search, it really slows me down. Just a simple textbox search. I literally forgot how to do include an image, i tried `[! /img/foo.svg]` and it didnt work, so feeling foolish I opened nuejs.org and then had to click through a number of menu items to try to find, "now where was it again", all the time I could hear  [Steven Krug shouting at me][steven] , "DONT MAKE ME THINK!". I eventually found it under Markdown extensions, because I was thinking, "image" isnt an extension, that's a basic block, like air and water.
 

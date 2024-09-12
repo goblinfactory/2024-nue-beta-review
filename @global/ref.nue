@@ -1,0 +1,3 @@
+<header @name=ref class=ref>
+    <a href="{link}">{link}</a>
+</header>

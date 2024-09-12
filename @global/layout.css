@@ -59,7 +59,24 @@ body {
   }
 }
 
+.ref {
+  display:flex;
+  align-items: center;
+  gap:1em;
+  background-image: url('/img/external.svg');
+  background-size: 1.2em;
+  background-position-y: 0.3em;
+  background-repeat: no-repeat;
+  padding-left:2em;
+  margin-left:1em;
+  font-size: smaller;
+}
 
+.ref a {
+  background-color: beige;
+  padding:0.4em;
+  border-radius: 5px;
+}
 
 
 

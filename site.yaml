@@ -51,3 +51,5 @@ links:
   missing:  /blog/missing-features.html  
   issues:   /blog/bugs-and-issues.html
   roadmap:  //nuejs.org/#:~:text=and%20web%20standards-,Roadmap%20and%20status,-Ultimately%20Nue%20will
+  started:  //nuejs.org/docs/installation.html
+  git:      //github.com/goblinfactory/2024-nue-beta-review

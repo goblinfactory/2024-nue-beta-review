@@ -31,23 +31,10 @@ The following things I didn't quite feel the love;
 
 ### Libraries, Include, Exclude
 
-asdasd
-
-[! /img/external.svg width="50px"] 
-
-asdasd
-
-[! /img/external.svg width="50px"]
-
-adasdas
-
-[includes][includes] and [excludes][excludes]
-
 1. Including and Excluding assets felt like a very manual way to optimise payload.  It feels like it should simply `not exist` ? i.e. couldnt Nue just employ some kind of smart tree shaking to determine what things are needed and what are not and deliver an optimal payload automatically? 
 2. Does this mean that javascript code won't behave as expected? 
 3. How do I import just one function from a library?
 4. If two different pages both import just a function from a lib, how do you write singletons (static) instances?
-
 
 ### 3. Stability?
 
