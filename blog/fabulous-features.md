@@ -11,7 +11,7 @@ links:
 
 Pixel perfect, and idiot proof super simple, and super quick and perfectly neat fenced code block color coding, without which I wouldnt even bother writing this review. Taking screenshots of code ...eurgh, life is too short.
 
-```cs
+```cs.numbered
         [Test]
         public void show_progress_title_and_progress_bar()
         {
