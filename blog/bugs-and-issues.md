@@ -46,4 +46,8 @@ Update: it happened again, and literally in this very page. (Which is why there'
 
 This is quite important; because I believe these types of issues go unreported. A new user doesnt even know that something is an issue, they just think they've misunderstood it, and decide, "this is too complicated for me", or, "it's not as simple as the authors claim it is" and they dont report it as a bug.
 
+### update: 11pm Thur 12th
+
+1. I reported the bug on github issues; and it was picked up by 1 of the devs, we had an exchange on github issues and we identified the root cause and found a simple workaround within 2 hours. 
+
 [button label="backity back back" href="/"]
