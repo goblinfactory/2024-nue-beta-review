@@ -15,6 +15,8 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
  
 ## Parting thoughts
 
-I can't wait to see how Nue [progresses on it's roadmap][roadmap] and to get my hands on the first set of templates that I can use (as a non designer) without having to constantly tweak CSS. (Default css and design system that works out of the box for tabs, and code formatting supporting light and dark themes et al) it's going to be amazing. I can't wait.
+This is definitely still a very beta project. There are stability issues preventing me from using it for anything serious. I will keep playing with it though, because I love where it's going and want to be part of the journey. I will be able to judge when it feels stable enough to use on some of my more serious projects, for which Nue is going to be perfect.
+
+I can't wait to see how Nue [progresses on it's roadmap][roadmap] and to get my hands on the first set of starter design templates that I can use (as a non designer) without having to constantly tweak CSS. (Default css and design system that works out of the box for tabs, and code formatting supporting light and dark themes et al) it's going to be amazing. I can't wait.
 
 Not being a designer myself, I have to wait for one of the templates to be able to go crazy with grids. While I can use DIVs and css Flex etc to build a grid, it's the sheer simplicity of being able to cleanly create content in a grid that I'm really excited about. Small things with really big impacts. 
