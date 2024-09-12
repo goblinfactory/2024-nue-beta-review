@@ -8,10 +8,10 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
 
 ## Nue 1.0 beta notes & impressions
 
- 1. ["FF" the Fabulous Features.][p02]
- 1. [Documentation improvement suggestions.][p03]
+ 1. ["FF" the Fabulous Features.][fab]
+ 1. [Documentation improvement suggestions.][improve]
  1. [Missing features.][missing]
- 1. [Beta, bugs and issues.][p05]
+ 1. [Beta, bugs and issues.][issues]
  
 ## Parting thoughts
 

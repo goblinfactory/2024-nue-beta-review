@@ -3,6 +3,7 @@ title: Documentation Improvements
 date: 2024-09-09
 links:
   codeblocks: //nuejs.org/docs/tags.html#codeblocks
+  header: //nuejs.org/docs/settings.html#header
 numbered: true
 ---
 
@@ -37,7 +38,7 @@ Given the above configuration; To create a link to "Brad Frost" with link text o
 Or as **Brad Frost** [puts it][gds]
 ```
 
-### 2. CodeBlocks
+### 3. CodeBlocks
 
 There's no indication in the [docs][codeblocks] of what Codeblocks are useful for? Or how they differ from simply using fenced codeblocks or `[code]` blocks. The following markdowns produce the identical output;
 
@@ -82,10 +83,19 @@ Exactly the same output.
   const foo = getTheThing({ x, y })
 
 
-
 #### Thoughts
 1. Fenced code blocks are already a well supported markdown standard and is supported by vscode with automatic language intellisense and colour coding.
 2. If you view the source for this page, you save 3 lines using codeblocks, but that's the only minor difference that doesn't seem to justify three different ways to render code blocks?
 3. Fenced code blocks are the most verbose, but literally only by 2 extra lines; then `[code]` which is only 1 line longer than using default markdown triple backtick.
+
+
+### 4. Settings and metadata
+
+Docs on settings and metadata needs an example of how to use a setting. For example, show how to add a site variable like {version} to a page footer. Or how to add it to the HTL layout for the global header.
+
+Examples of real code that works, actually explain how things work 100 times more effectively than plain text.  
+
+For example; [what are some simple valid HTML examples for header, footer, burger_menu][header] ? 
+
 
 [button label="backity back back" href="/"]

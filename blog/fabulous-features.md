@@ -76,6 +76,9 @@ inline_css: true
 2. There's a very ambitious and clear roadmap and a hunger for delivering on those goals
 3. Seems like there's a good balance between delivering on the roadmap while also focusing on small issues that impact usability. That's a difficult balance to get right. I think that Nue has nailed that balance and It shows. 
 
-### 9. to be continued ... (work in progress)
+
+
+
+### to be continued ... (work in progress)
 
 [button label="backity back back" href="/"]

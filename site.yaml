@@ -44,10 +44,9 @@ footer:
       size: 22 x 22
 
 links:
-  p01: /blog/01-getting-started-and-documentation.html
-  p02: /blog/02-fabulous-features.html
-  p03: /blog/03-documentation-improvements.html
-  p04: /blog/04-random-suggestions.html
-  p05: /blog/05-bugs-and-issues.html
-  missing: /blog/06-missing-features.html
-  roadmap: https://nuejs.org/#:~:text=and%20web%20standards-,Roadmap%20and%20status,-Ultimately%20Nue%20will
+  fab:      /blog/fabulous-features.html
+  improve:  /blog/documentation-improvements.html
+  start:    /blog/getting-started-and-documentation.html
+  missing:  /blog/missing-features.html  
+  issues:   /blog/bugs-and-issues.html
+  roadmap:  //nuejs.org/#:~:text=and%20web%20standards-,Roadmap%20and%20status,-Ultimately%20Nue%20will
