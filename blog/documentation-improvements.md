@@ -97,5 +97,4 @@ Examples of real code that works, actually explain how things work 100 times mor
 
 For example; [what are some simple valid HTML examples for header, footer, burger_menu][header] ? 
 
-
 [button label="backity back back" href="/"]

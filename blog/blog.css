@@ -1,0 +1,6 @@
+.left {
+    float:right;
+    margin-right: 1em;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}

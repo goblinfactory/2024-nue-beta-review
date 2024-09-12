@@ -9,6 +9,8 @@ links:
   348: //github.com/nuejs/nue/issues/348
   343: //github.com/nuejs/nue/issues/343
   356: //github.com/nuejs/nue/issues/356
+  includes: //nuejs.org/docs/project-structure.html#:~:text=statement%20as%20follows%3A-,include,-%3A%20%5Bsyntax
+  excludes: //nuejs.org/docs/project-structure.html#exclude
 ---
 
 ## Issues and feature requests
@@ -22,5 +24,24 @@ These are some issues I've already raised on github with dev team
 1. [Glow to please support line numbers when using fence blocks][343]
 1. [Adding [codetabs] to any markdown page gives runtime chrome error Failed to resolve module][353]
 1. [Access to current Nuejs version as a system variable][356]
+
+## Things that need discussion or polish (my 2 cents)
+
+The following things I didn't quite feel the love;
+
+### Libraries, Include, Exclude
+
+[! /img/external.svg] : [includes][includes] and [excludes][excludes]
+
+1. Including and Excluding assets felt like a very manual way to optimise payload.  It feels like it should simply `not exist` ? i.e. couldnt Nue just employ some kind of smart tree shaking to determine what things are needed and what are not and deliver an optimal payload automatically? 
+2. Does this mean that javascript code won't behave as expected? 
+3. How do I import just one function from a library?
+4. If two different pages both import just a function from a lib, how do you write singletons (static) instances?
+
+### 3. Stability?
+
+1. I know I said in my "fabulous features" that because so much has been removed it feels really rock solid. That's kind of true, but there are moments where things just suddenly don't behave and I can't report it as a bug because the dev team say they can't reproduce, and it feels like I'm gaslighting myself.
+1. For the issue above, it turns out I actually had remembered `[! /img/myimage.jpg]` totally correctly, but for some unknow reason, Nue just REFUSED to render the image, instead it rendered the actual markdown. The only way I managed to get it working was to cut and paste `[! img/favicon.jpg]` from a different project, and suddenly it started working again, as if one of the characters I had typed had some encoding issue, or the generated code by the nue compile step has an encoding problem. This is not the first time this type of "HUH???" moment ...has happened. I even stopped and started nue, and deleted the `.dist` folder just in case. I will have to watch this space carefully.
+1. I normally wouldnt make such a big deal of this; but, when trying to learn a new system, if you hit one of these bugs during your learning, it can be a dealbreaker that is so confusing that you just give up and move on and use something that actually works for you. So, I will be watching very carefully to see if this happens again soon enough for me to say this is actually a real concern. The next time this happens, I'm going to deploy the page, and see if the bug is local to my machine, or persists to production. 
 
 [button label="backity back back" href="/"]
