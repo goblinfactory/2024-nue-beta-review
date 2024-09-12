@@ -12,6 +12,7 @@ links:
 Pixel perfect, and idiot proof super simple, and super quick and perfectly neat fenced code block color coding, without which I wouldnt even bother writing this review. Taking screenshots of code ...eurgh, life is too short.
 
 ```cs .numbered
+  // some C# code
   [Test]
   public void show_progress_title_and_progress_bar()
   {
@@ -27,8 +28,8 @@ Pixel perfect, and idiot proof super simple, and super quick and perfectly neat 
           "Item 10    of 10   . (100%) ############",
           "dogs                                    ",
       };
-      Assert.AreEqual(expected, console.BufferWritten);
-  }
+      •Assert.AreEqual(expected, console.BufferWritten);
+  } 
 ```
 
 ### 2. Global and local links
