@@ -11,10 +11,25 @@ links:
 
 Pixel perfect, and idiot proof super simple, and super quick and perfectly neat fenced code block color coding, without which I wouldnt even bother writing this review. Taking screenshots of code ...eurgh, life is too short.
 
-```
-// this rocks!
-1 + 1 = ••300••;
-console.log('booyaaah!)
+```cs
+        [Test]
+        public void show_progress_title_and_progress_bar()
+        {
+            var console = new MockConsole(40,20);
+-            var pb1 = new ProgressBar(console, PbStyle.DoubleLine, 10);
++            var pb2 = new ProgressBar(console, PbStyle.DoubleLine, 10);
+            pb1.••Reefresh••(2,"cats");            
+            pb2.Refresh(10,"dogs");
+
+            var expected = new[]
+            {
+                "Item 2     of 10   . (20 %) ##########  ",
+                "cats                                    ",
+                "Item 10    of 10   . (100%) ############",
+                "dogs                                    ",
+            };
+            Assert.AreEqual(expected, console.BufferWritten);
+        }
 ```
 
 ### 2. Global and local links

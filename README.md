@@ -13,4 +13,6 @@ covering
  1. Beta, bugs and issues.
 
  Live site is at : [nue-beta-review.bignamehunter.com](https://nue-beta-review.bignamehunter.com/?refer=repo)
- 
+
+ // useful reference :D
+ bullet -> •
