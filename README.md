@@ -12,7 +12,7 @@ covering
  1. Missing features.
  1. Beta, bugs and issues.
 
- Live site is at : [nue-beta-review.bignamehunter.com](https://nue-beta-review.bignamehunter.com/?refer=repo)
+ Live site is at : [nue-beta1-review.bignamehunter.com](https://nue-beta1-review.bignamehunter.com/?refer=repo)
 
  // useful reference :D
  bullet -> •
