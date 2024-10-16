@@ -55,7 +55,8 @@ Parsing the data on prem, for example in `C#` is as simple as using `JmesPath` a
 # C# on-prem
 ```cs.numbered
        public static Log[] ParseCachedJson(this string json) {
-        // JMESPath expression to extract the required fields (simplified, ignoring Cf prop for this demo)
+        // JMESPath expression to extract the required fields 
+        // (simplified, ignoring Cf prop for this demo)
         // ... but you get the gist! ;D 
         var jmes = new JmesPath();
         var expression = @"
