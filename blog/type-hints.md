@@ -57,3 +57,5 @@ Cheers, Alan
 p.s. the servicename up top is suffixed not prefixed to help improve intenseness, since it's long and moves the LSB (least significant data in the string left, also paradoxically "actually" most important information, to the left)
 
 pp.s. Ooops, sorry, comments are not yet working on my blog. That's some more work to do there.
+
+You can add comments in the [Linkedin conversation here](https://www.linkedin.com/feed/update/urn:li:activity:7252375030951559168?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7252375030951559168%2C7252375713461288960%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287252375713461288960%2Curn%3Ali%3Aactivity%3A7252375030951559168%29)
