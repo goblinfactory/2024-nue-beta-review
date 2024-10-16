@@ -12,7 +12,13 @@ I’m Alan Hemmings, I am NOT an user experience developer from Berlin. I DO NOT
  1. [Documentation improvement suggestions.][improve]
  1. [Missing features.][missing]
  1. [Beta, bugs and issues.][issues]
- 
+
+## Some test blog posts
+
+These are actual real blog posts: I'm just dropping them here as a test instead of on my actual blog since I'm lazy and I like the new updates to Nue, since I no longer have to take screenshots when need to reference code snippets, and need to migrate my old blog over.
+
+* [Adding type hints to Json Data][typehints]
+
 ## Parting thoughts
 
 This is definitely still a very beta project. There are stability issues preventing me from using it for anything serious. That being said, I think it's very very close and I estimate I'll be using it in production very soon! I love where the project is going and want to be part of the journey. I will be able to judge when it feels stable enough to use on some of my more serious projects for which Nue is going to be perfect.

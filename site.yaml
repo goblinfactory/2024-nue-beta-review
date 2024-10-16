@@ -45,6 +45,7 @@ footer:
       size: 22 x 22
 
 links:
+  typehints: /blog/type-hints.html
   fab:      /blog/fabulous-features.html
   improve:  /blog/documentation-improvements.html
   start:    /blog/getting-started-and-documentation.html
@@ -53,3 +54,4 @@ links:
   roadmap:  //nuejs.org/#:~:text=and%20web%20standards-,Roadmap%20and%20status,-Ultimately%20Nue%20will
   started:  //nuejs.org/docs/installation.html
   git:      //github.com/goblinfactory/2024-nue-beta-review
+  
