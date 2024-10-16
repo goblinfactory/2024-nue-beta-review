@@ -52,7 +52,8 @@ The result is you get a type hint that tells you the project that created the lo
 
 Parsing the data on prem, for example in `C#` is as simple as using `JmesPath` and serialising 'data that matches', ignoring everything else. 
 
-```cs
+# C# on-prem
+```cs.numbered
 
        public static Log[] ParseCachedJson(this string json) {
         // JMESPath expression to extract the required fields (simplified, ignoring Cf prop for this demo)
@@ -73,6 +74,8 @@ Parsing the data on prem, for example in `C#` is as simple as using `JmesPath` a
             return logs;
     }
 ```
+
+No mess, no fuss, no MOUNTAIN of `POCO`'s and `DTO`'s and no dealing with serialisation errors. Just query the logs you KNOW are there. Use the hits to find the project, infer the schema, write some `JmesPath`, and test, and iterate. 
 
 > I Would love to know what you think in the comments below, 
 
