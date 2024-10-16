@@ -50,6 +50,30 @@ Lastly, you add a `_typeHint: SerialiseTypes` hint field to any type and you'll 
 
 The result is you get a type hint that tells you the project that created the log entry, and the type, (and the version) and the code. This is super simple, and very relaxed; introduces no additional complexities or dependencies and results in self documenting code that will update itself. 
 
+Parsing the data on prem, for example in `C#` is as simple as using `JmesPath` and serialising 'data that matches', ignoring everything else. 
+
+```cs
+
+       public static Log[] ParseCachedJson(this string json) {
+        // JMESPath expression to extract the required fields (simplified, ignoring Cf prop for this demo)
+        // ... but you get the gist! ;D 
+        var jmes = new JmesPath();
+        var expression = @"
+            data[].{
+                Method: method,
+                Url: url,
+                Headers: headers,
+                CookieNames: cookieNames,
+                Cf: cf,
+                Body: body,
+                TypeHint: _typeHint
+            }";
+            var result = jmes.Transform(json, expression);
+            var logs = JsonSerializer.Deserialize<Log[]>(result) ?? [];
+            return logs;
+    }
+```
+
 > I Would love to know what you think in the comments below, 
 
 Cheers, Alan
