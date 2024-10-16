@@ -81,7 +81,7 @@ No mess, no fuss, no MOUNTAIN of `POCO`'s and `DTO`'s and no dealing with serial
 
 Cheers, Alan
 
-p.s. the servicename up top is suffixed not prefixed to help improve intenseness, since it's long and moves the LSB (least significant data in the string left, also paradoxically "actually" most important information, to the left)
+p.s. the servicename up top is suffixed not prefixed to help improve intellisense, since it's long and moves the LSB (least significant data in the string left, also paradoxically "actually" most important information, to the left)
 
 pp.s. Ooops, sorry, comments are not yet working on my blog. That's some more work to do there.
 
